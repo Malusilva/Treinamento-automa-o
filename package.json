@@ -1,0 +1,15 @@
+{
+  "name": "treinamento-automa-o",
+  "version": "1.0.0",
+  "description": "Este repositório tem o objetivo de guardar informações sobre teste automatizado web usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.0"
+  }
+}
